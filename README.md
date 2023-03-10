@@ -2,7 +2,7 @@
 
 ### Objetivo do projeto:
 
-- Projeto ditático onde eu precisei abrir o navegador, buscar a cotação do Dólar, em seguida do Euro e por último a do ouro. Logo após tive que importar a base de dados e modificar os valores das cotações de acordo com a cotação atual de cada um, em seguida atualizar o preço de compra e preço de venda. E por último exportei para o local no meu notebook. Tudo isso de forma automática.
+- Projeto ditático onde eu precisei abrir o navegador, buscar a cotação do Dólar, em seguida do Euro e por último a do ouro. Logo após tive que importar a base de dados e modificar os valores das cotações de acordo com a cotação atual de cada um, em seguida atualizar o preço de compra e preço de venda. E por último exportei o arquivo de forma local. Tudo isso de forma automática.
 
 #### Bibliotecas utilizadas:
 
